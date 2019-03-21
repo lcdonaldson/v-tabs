@@ -17,8 +17,8 @@ export default {
   put (song) {
     return Api().put(`songs/${song.id}`, song)
   },
-  delete (id) {
-    console.log('one')
-    return Api().delete(`songs/${id}`)
+  delete (songId) {
+    const res = Api().delete(`songs/${songId}`)
+    return res
   }
 }

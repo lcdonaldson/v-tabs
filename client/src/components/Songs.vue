@@ -63,7 +63,6 @@ export default {
     async deleteSong (id) {
       this.error = null
       try {
-        console.dir(SongsService.delete(id))
         await SongsService.delete(id)
         console.log('buzz')
       } catch (err) {
