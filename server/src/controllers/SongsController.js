@@ -70,9 +70,10 @@ module.exports = {
   //   });
   // },
   async delete(req, res) {
+    console.log('are we here')
     try {
-      console.log('mila' + req.params.songId);
-      const song = await Song.delete(req.params.songId)
+      // console.log('mila' + req.params.songId);
+      const song = await Song.destroy(req.params.songId)
       res.send(song)
     } catch (err) {
       res.status(500).send({
