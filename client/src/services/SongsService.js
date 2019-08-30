@@ -18,7 +18,9 @@ export default {
     return Api().put(`songs/${song.id}`, song)
   },
   delete (songId) {
-    const res = Api().delete(`songs/${songId}`)
-    return res
+    // console.log(`songs/${songId}`, { params: {} })
+    return Api().delete(`songs/${songId}`)
+    // axios.get(`http://localhost:8081/songs/${songId}`)
+    //   .then(res => song.splice(index, 1));
   }
 }

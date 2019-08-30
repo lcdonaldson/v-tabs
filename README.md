@@ -1,3 +1,6 @@
-# This is Tabs. It is a vue / node project based off of a you tube tutorial. 
-It is currently in development and the UI and minor functionality has been modified with new features being added. 
-However, the server side code has followed the tutorial very closely.
+# This is Tabs. 
+## It is a vue / node project for housing music tabs and videos in one place. 
+
+The basics come from a youtube tutorial and then I added ideas and features.
+It is currently in development and the UI and minor functionality is undergoing changes. 
+However, the server side code has followed the tutorial very closely with slight additions.
