@@ -50,7 +50,7 @@ export default {
     margin-bottom: 0.5rem;
     min-height: 3rem;
     font-size: 24px;
-    background-color: #ff9512;
+    background-color: #ffaa0e;
     color: #fff;
   }
   .signUp,

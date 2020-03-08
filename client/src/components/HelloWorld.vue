@@ -47,8 +47,6 @@ export default {
   }
 }
 </script>
-
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 
 h1, h3, p {
@@ -69,7 +67,7 @@ h1, h3, p {
 }
 
 .primaryContentWrapper { background-color: #fff; }
-.primaryContentWrapper > * { color: #ff9500; }
+.primaryContentWrapper > * { color: #ffaa0e; }
 .primaryContentWrapper > p { margin-bottom: 1rem; }
 
 .secondaryContentWrapper { background-color: #ffb300; }
