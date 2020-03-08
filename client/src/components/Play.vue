@@ -55,7 +55,7 @@ export default {
   },
   data () {
     return {
-      song: null
+      song: ''
     }
   },
   methods: {
@@ -65,6 +65,7 @@ export default {
   },
   async mounted () {
     const songId = this.$store.state.route.params.songId
+    console.log('SONG : ' + JSON.stringify(songId, null, 2))
     this.song = (await SongsService.show(songId)).data
   }
 }
