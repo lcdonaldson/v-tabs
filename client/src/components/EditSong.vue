@@ -187,7 +187,7 @@ export default {
     border-radius: 2rem;
     font-size: 1em;
     outline: none;
-    color: white;
+    color: #ffffff;
     background-color: #09d277;
   }
   .danger-alert {border: 3px solid red;}
