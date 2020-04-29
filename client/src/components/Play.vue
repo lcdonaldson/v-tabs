@@ -22,8 +22,7 @@
         {{song.lyrics}}
         </div>
       </Card>
-      <Card title="Video"
-      >
+      <Card title="Video">
         <div
           class="video"
           readonly

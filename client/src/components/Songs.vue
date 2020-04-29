@@ -73,6 +73,7 @@ export default {
   },
   async mounted () {
     this.songs = (await SongsService.index()).data
+    console.log("HERE", this.songs);
   }
 }
 </script>
