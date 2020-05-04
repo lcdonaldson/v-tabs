@@ -66,7 +66,7 @@ export default {
     margin: 0 auto;
     max-width: 35rem;
     padding: 1.5rem 0;
-    background-color: #fff;
+    background-color: #FFF;
   }
 
   h3 { display: inline;}
@@ -87,7 +87,7 @@ export default {
     outline: none;
     border: none;
     padding: 0 0.3rem;
-    background-color: #ddd;
+    background-color: #DDD;
   }
 
   ::-webkit-input-placeholder {
@@ -106,7 +106,7 @@ export default {
     font-size: 1em;
     outline: none;
     color: white;
-    background-color: #09d277;
+    background-color: #09D277;
   }
 
   @media screen and (min-width: 500px) {
