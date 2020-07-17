@@ -1,4 +1,4 @@
-# This is Tabs. 
+# This is called Tabs. 
 ## It is a vue / node project for housing music tabs and videos in one place. 
 
 The basics come from a youtube tutorial and then I added ideas and features.
