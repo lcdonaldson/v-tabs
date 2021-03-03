@@ -1,4 +1,4 @@
-# This project is called Tabs. 
+# This is Tabs. 
 ## It is a vue front end and a node backend for presenting music tabs and videos in one place. 
 
 The root of this project comes from a youtube tutorial and then I added ideas and changed some features.
