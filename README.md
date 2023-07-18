@@ -6,4 +6,4 @@ It is currently in development (as I get time ...updating in 2021) and the UI an
 However, the server side code has followed the tutorial very closely with slight additions and
 subtractions from the tutorial design.
 
-updates will be coming sometime july of 2021
+updates should be coming sometime in 2024
